@@ -1,9 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c809fe38-7bef-4e23-8845-88d239d90e0f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c809fe38-7bef-4e23-8845-88d239d90e0f" name="Default" comment="игнор файлов">
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shop.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/template/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/flexslider.css" beforeDir="false" afterPath="$PROJECT_DIR$/template/css/flexslider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/memenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/template/css/memenu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/template/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/BreeSerif-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/template/fonts/BreeSerif-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Lato-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/template/fonts/Lato-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Lora-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/template/fonts/Lora-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Muli-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/template/fonts/Muli-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Philosopher-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/template/fonts/Philosopher-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/abt-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/abt-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/abt-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/abt-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/abt-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/abt-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bnr-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/bnr-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bnr-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/bnr-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bnr-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/bnr-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/c-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/c-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/c-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/c-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/c-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/c-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cart-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/cart-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cart-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/cart-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cart-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/cart-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/crossword.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/crossword.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/p-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/p-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/p-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/p-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/p-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/p-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p-7.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/p-7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p-8.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/p-8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pr-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/pr-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pr-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/pr-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/s-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/s-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/s-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/s-icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/s-icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/search.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/star.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/star.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tick.png" beforeDir="false" afterPath="$PROJECT_DIR$/template/images/tick.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/imagezoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/js/imagezoom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.11.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.easydropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/js/jquery.easydropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.flexslider.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/js/jquery.flexslider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/memenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/js/memenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/responsiveslides.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/js/responsiveslides.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/simpleCart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/js/simpleCart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typo.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/typo.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,26 +72,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" executionDataType="PHAR" phpInterpreterId="f5f72bfb-c723-4855-bba7-0009b6179c37" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>D:\openserver\OSPanel\domains\shop.loc\composer.json</pharConfigPath>
+    <pharPath>$PROJECT_DIR$/composer.phar</pharPath>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="shop.loc" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="40">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +105,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/template/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -52,19 +122,25 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="25" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -76,12 +152,38 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Changed Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="shop.loc" type="cbb8eebc:String" user="shop.loc" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="shop.loc" type="cbb8eebc:String" user="shop.loc" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\openserver\OSPanel\domains\shop.loc\template" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,55 +207,135 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537602690382</updated>
-      <workItem from="1537602691763" duration="414000" />
+      <workItem from="1537602691763" duration="1248000" />
+      <workItem from="1537606890898" duration="1053000" />
     </task>
+    <task id="LOCAL-00001" summary="игнор файлов">
+      <created>1537603125631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537603125631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="игнор файлов">
+      <created>1537603216743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537603216743</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="414000" />
+    <option name="totallyTimeSpent" value="2301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919742" visible="true" weight="0.25266525" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32938644" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32938644" />
+      <window_info id="Structure" order="1" sideWeight="0.5008026" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008026" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="игнор файлов" />
+    <option name="LAST_COMMIT_MESSAGE" value="игнор файлов" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/CSV-Groovy.csv.groovy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="28" column="41" selection-start-line="26" selection-start-column="28" selection-end-line="28" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_psr4.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="40">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
