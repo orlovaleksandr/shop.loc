@@ -8,11 +8,7 @@ class App
 
     public function __construct()
     {
-    }
-
-    public function __toString()
-    {
-        return "HEllo";
+        echo $query = trim($_SERVER['QUERY_STRING'], '/');
     }
 
 }
